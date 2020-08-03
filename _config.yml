@@ -28,11 +28,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-<<<<<<< HEAD
-theme: jekyll-theme-clean-blog
-=======
 theme:  StartBootstrap/startbootstrap-clean-blog-jekyll 
->>>>>>> 3d3aa63eb8de6e0d198b2217a422cc0a6a2a37f7
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
