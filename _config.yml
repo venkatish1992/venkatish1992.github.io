@@ -22,7 +22,7 @@ title: Free Vbucks - Generate Fortnite V-Bucks 2020 | NoHumanVerification
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Getting free vbucks can be a hassle in Fortnite, learn these easy ways to get them using our trustworthy Generator. 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://venkatish1992.github.io/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
